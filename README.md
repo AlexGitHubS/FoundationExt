@@ -1,3 +1,3 @@
-# FoundationExt
+FoundationExt
 
-A description of this package.
+Foundation Extensions (using swift package manager)
